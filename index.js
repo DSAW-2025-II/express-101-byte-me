@@ -5,6 +5,11 @@ const port = process.env.PORT || 8080;
 app.use(express.json());
 const users = require('./data');
 
+app.get('/', (req, res) => {
+  res.send('ok');
+});
+
+
 app.get('/user-info', (req, res) => {
   res.json(users);
 });
