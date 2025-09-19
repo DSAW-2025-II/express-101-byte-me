@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LBrZCaaW)
 # Taller en Parejas: Creación de un Endpoint con Express.js
 
 Este proyecto consiste en un reto de desarrollo backend en el que se debe crear un endpoint llamado `user-info` utilizando el framework Express.js. El objetivo principal es que, al hacer una solicitud GET a este endpoint, se retorne un objeto JSON con la información de uno o dos estudiantes, dependiendo de si el equipo está compuesto por una o dos personas.
@@ -61,4 +62,16 @@ El objeto JSON que debe retornar cada endpoint debe tener la siguiente estructur
 - [Guía de Node.js](https://nodejs.org/es/docs/)
 - [ Despliegue de aplicaciones Node.js en Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 - [Despliegue de aplicaciones Express.js en Vercel](https://vercel.com/docs/deployments/overview/)
+
+
+## 👨‍💻 Autor
+
+- **Nombre:** Sofy Alejandra Prada Murillo
+- **Código estudiantil:** 0000336152  
+- **Correo:** [sofyprmu@unisabana.edu.co](mailto:sofyprmu@unisabana.edu.co)
+
+- **Nombre:** Esteban Sequeda Henao  
+- **Código estudiantil:** 0000328378  
+- **Correo:** [estebansehe@unisabna.edu.con](mailto:estebansehe@unisabna.edu.con)
+- **link vercel:** https://express-101-byte-me-rose.vercel.app/
 
