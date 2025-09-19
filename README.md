@@ -73,5 +73,5 @@ El objeto JSON que debe retornar cada endpoint debe tener la siguiente estructur
 - **Nombre:** Esteban Sequeda Henao  
 - **Código estudiantil:** 0000328378  
 - **Correo:** [estebansehe@unisabna.edu.con](mailto:estebansehe@unisabna.edu.con)
--**link vercel:** https://express-101-byte-me-rose.vercel.app/
+- **link vercel:** https://express-101-byte-me-rose.vercel.app/
 
